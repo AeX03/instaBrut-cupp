@@ -1,4 +1,11 @@
+<p align="center">
+
 # instaBrut-cupp
+[![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/AeX03/instabru-cupp)
+[![version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/AeX03/instabru-cupp)
+[![Coverage Status](https://coveralls.io/repos/github.com/AeX03/badge.svg)](https://coveralls.io/github.com/AeX03/instabru-cupp)
+<img alt="Discord" src="https://img.shields.io/discord/709150520446550097"/>
+
 
 ## Tested on
 - [x] Kali Linux 2022
@@ -47,3 +54,4 @@ cd instabrut-cupp
 </table>
 
 </details>
+</p align="center">
