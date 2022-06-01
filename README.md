@@ -50,6 +50,7 @@ cd instabrut-cupp
     <tr><td>CUPP</td><td align="right">-v</td><td nowrap><code>Version of the program</code></td></tr>
     <tr><td>INSTABRUT</td><td align="right">exemple</td><td nowrap><code>Python3 instagram.py [name victime] [Wordlist] -m [Mode]</code></td></tr>
     <tr><td>INSTABRUT</td><td align="right">-m</td><td nowrap><code>Modes: 0 => 32 bots; 1 => 16 bots; 2 => 8 bots; 3 => 4 bots</code></td></tr>
+    <tr><td>UPDATE</td><td align="right">bash or ./</td><td nowrap><code>sudo bash Update.sh      or      sudo ./Update.sh</code></td></tr>
   </tbody>
 </table>
 
