@@ -12,6 +12,9 @@ ${GREEN}echo "|_|_| |_(___/   \__)_____|______/|_|   |____/   \__)     \____)___
 ${GREEN}echo "                                                                    |_|   |_|    ";
 ${GREEN}echo "                                                                                 ";
 
+echo "The script will start in 10 seconds."
+
+sleep 10s
 
 clear
 
