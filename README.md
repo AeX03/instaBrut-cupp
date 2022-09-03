@@ -1,4 +1,4 @@
-<p align="center">
+![Banner](https://github.com/AeX03/instaBrut-cupp/blob/main/image/passgen.png)
 
 # instaBrut-cupp
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/AeX03/instabru-cupp)
